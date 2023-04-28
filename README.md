@@ -5,7 +5,7 @@ Make sure to note the numbers seen on the various structures.
 The only way to exit and win is to collect all car parts, remember the numbers, and to take the elevator by the giant exit sign
 
 Controls -
-E is interact (Works on doors, car parts, medkits, and the green elevator platform
+E is interact (Works on doors, car parts, medkits, and the green elevator platform)
 C is how to use a medkit after picking them up
 F is used for a temporary extremely bright flashlight
 Stand on the charger platforms to charge flashligh battery
@@ -54,7 +54,31 @@ Engine Sound 1 - Creative Commons 0 - https://freesound.org/people/MarlonHJ/
 OTHER
 Grass - https://www.nicepng.com/png/full/46-469246_grass-background-png.png
 Leaves - https://i.ibb.co/S0PsCFL/Leaf.png
-All Unity assets are non commercial use and no monetary value is gained
+All Unity assets are non commercial use, no monetary value is gained
+
+# scripts
+
+# player 1
+batteries - logic for battery for flashlight and charging
+car - logic for driving car
+carPartsCollection - Logic for collecting car parts and interacting
+Elevator - Elevator logic and animations
+endTrigger - end trigger for game, checks if user won
+flashlight - all flashlight logic
+interact - script for using e to interact with world
+look - Mouse movement look
+menu - in game menus for settings and instructions
+movement - logic for player movement and controls
+onScreenDebug - fps counter
+pov - NOT USED - used for dog's controls while in development
+workbench - workbench at end of game that collects car parts and spawns car
+
+# AI
+Ai - Logic for all dogs
+
+# other
+LowPolyWater - water physics for lake
+
 
 
 
