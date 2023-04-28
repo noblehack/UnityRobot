@@ -59,25 +59,25 @@ All Unity assets are non commercial use, no monetary value is gained
 # scripts
 
 # player 1
-batteries - logic for battery for flashlight and charging
-car - logic for driving car
-carPartsCollection - Logic for collecting car parts and interacting
-Elevator - Elevator logic and animations
-endTrigger - end trigger for game, checks if user won
-flashlight - all flashlight logic
-interact - script for using e to interact with world
-look - Mouse movement look
-menu - in game menus for settings and instructions
-movement - logic for player movement and controls
-onScreenDebug - fps counter
-pov - NOT USED - used for dog's controls while in development
-workbench - workbench at end of game that collects car parts and spawns car
+batteries - logic for battery for flashlight and charging ||
+car - logic for driving car ||
+carPartsCollection - Logic for collecting car parts and interacting ||
+Elevator - Elevator logic and animations ||
+endTrigger - end trigger for game, checks if user won ||
+flashlight - all flashlight logic ||
+interact - script for using e to interact with world ||
+look - Mouse movement look ||
+menu - in game menus for settings and instructions ||
+movement - logic for player movement and controls ||
+onScreenDebug - fps counter ||
+pov - NOT USED - used for dog's controls while in development ||
+workbench - workbench at end of game that collects car parts and spawns car ||
 
 # AI
-Ai - Logic for all dogs
+Ai - Logic for all dogs ||
 
 # other
-LowPolyWater - water physics for lake
+LowPolyWater - water physics for lake ||
 
 
 
